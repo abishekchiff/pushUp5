@@ -19,10 +19,14 @@ public class MainActivity extends AppCompatActivity {
         int ii = i + i;
 
     }
-    private void created_Change()
-    {
-        
-        String change =" iam the change ";
+    private void created_Change() {
+
+        String change = " iam the change ";
     }
-    
+
+    private void new_branch()
+    {
+        String branch_1 = " created ";
+    }
+
 }
