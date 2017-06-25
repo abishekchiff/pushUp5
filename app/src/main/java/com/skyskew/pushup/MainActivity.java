@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
     private void test_push()
     {
         int i= 1+1;
+
+
+        int ii = i + i;
+
     }
 }
